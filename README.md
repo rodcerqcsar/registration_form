@@ -1,10 +1,10 @@
-<h1 align="center"> Colored Markers </h1>
+<h1 align="center"> Registration Form </h1>
 
 <br>
 
 
 <p align="center">
-  <img alt="Preview App" src=".github/" width="100%">
+  <img alt="Preview image" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -16,11 +16,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Different ways to set color values and how to pair colors with each other.
+Forms by building a signup page.
 
 ---
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/colored_markers)
+- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/registration_form)
 
