@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="Preview image" src=".github/preview.jpg" width="100%">
+  <img alt="Preview image" src="github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
