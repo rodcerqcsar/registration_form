@@ -22,5 +22,5 @@ Forms of building a signup page.
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Access the finished project, online](https://rodrigocccesar.github.io/colored_markers)
+- [Access the finished project, online](https://rodrigocccesar.github.io/registration_form)
 
